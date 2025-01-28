@@ -2,7 +2,7 @@
 
 ## Pipe Up
 
-One sentence description
+This program implements the pipe operator, chaining the output of one command to be the input for the next command subsequently after it.
 
 ## Building
 
